@@ -1,12 +1,14 @@
-# IntegerGamesCredits
+# IntegerGames Platform Link
 
-This git is updated every N hours to have a track of who have access to the game server.  
+You can use RSA key to interact with your online variable.
+But if you prefer other ways to interact.
+- Twitch Chat,
+- Discord chat,
+- Youtube Comment,
+- A hosting web page,
+- ...
 
-Autogenered by a script on the server that update this git.  
-Linked to the https://www.tipeeestream.com/dashboard/api-key  
 
-  
-If you alias is in this Git "Credits", it means that your participated to the project :)  
-You are in the game credits.  
 
-If you are in the "Active" folder it means that last time we check you are still subscribe to the Integer Games on one of the platform we stream on.
+This git allows to authorize platform interaction.
+And keep track of who is currently subscribing to the project.
