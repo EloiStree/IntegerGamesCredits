@@ -9,6 +9,7 @@ But if you prefer other ways to interact.
 - ...
 
 
-
-This git allows to authorize platform interaction.
-And keep track of who is currently subscribing to the project.
+  
+This git allows to authorize platform interaction.  
+And keep track of who is currently subscribing to the project.  
+(You can still be anonyme by just using your RSA key)  
